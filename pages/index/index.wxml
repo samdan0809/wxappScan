@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+ 
+    <text class='qrcodeText'>{{qrCodeResult}}</text>
+    <button class='button' bindtap='startScan' > 点击扫码 </button>
+  
+ 
+</view>
